@@ -6,3 +6,9 @@
 __pycache__/
 
 uv.lock
+
+.python-version
+pyproject.toml
+
+# custom
+main.py

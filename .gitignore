@@ -1,0 +1,8 @@
+.vscode/
+.history/
+.idea/
+
+.venv/
+__pycache__/
+
+uv.lock

@@ -1,0 +1,13 @@
+[project]
+name = "python-for-data-and-analytics"
+version = "2025.09"
+description = "Code base for the examples in data analysis class (Fall 2025)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3",
+    "numpy>=2.3",
+    "scipy>=1.7",
+    "marimo>=0.15.0",
+    "jupyter>=1.1.1",
+]

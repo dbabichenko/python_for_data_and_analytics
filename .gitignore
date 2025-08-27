@@ -8,7 +8,7 @@ __pycache__/
 uv.lock
 
 .python-version
-pyproject.toml
+# pyproject.toml
 
 # custom
 main.py

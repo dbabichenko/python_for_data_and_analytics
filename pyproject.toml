@@ -10,4 +10,5 @@ dependencies = [
     "scipy>=1.7",
     "marimo>=0.15.0",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
 ]

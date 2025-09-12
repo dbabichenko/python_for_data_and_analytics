@@ -12,3 +12,4 @@ uv.lock
 
 # custom
 main.py
+data/

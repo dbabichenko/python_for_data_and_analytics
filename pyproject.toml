@@ -14,4 +14,5 @@ dependencies = [
     "ggplot>=0.11.5",
     "scikit-learn>=1.7.2",
     "rise>=5.7.1",
+    "seaborn>=0.13.2",
 ]

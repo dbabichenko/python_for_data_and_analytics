@@ -13,4 +13,5 @@ dependencies = [
     "matplotlib>=3.10.6",
     "ggplot>=0.11.5",
     "scikit-learn>=1.7.2",
+    "rise>=5.7.1",
 ]

@@ -15,4 +15,5 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "rise>=5.7.1",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
 ]

@@ -17,4 +17,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
     "networkx>=3.5",
+    "ruff>=0.15.2",
 ]
